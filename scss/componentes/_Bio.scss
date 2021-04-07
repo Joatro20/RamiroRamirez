@@ -1,0 +1,65 @@
+.Imagen {
+    width: 80px; 
+    height: 80px;
+    padding: 20px;
+}
+
+.contactoImg {
+    width:150px; height:150px;
+    padding: 10px;
+
+}
+
+.Piedepagina {
+    display: flex;
+    justify-content: flex-end;
+    padding: 25px 0px 0px 0px;
+    width: 1270px;    
+}
+
+.cortometrajes {
+    padding: 5px 3px 5px 3px;
+}
+
+.BioContent {      
+    display: flex;
+    justify-content: center;
+    width: 1270px;
+    height: 600px;
+    padding: 15px 15px 15px 15px;
+}
+
+.Bioimagenparraf{
+    display: flex;
+    justify-content: space-around;
+       
+}
+
+.Bio2 { 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    width: 550px;
+    height: 530px;
+    padding: 18px;
+    text-align: justify;
+}
+
+.Bio1 { 
+    display: flex;
+    width: 550px;
+    height: 530px;
+    padding: 18px;
+    z-index: -100;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Bio1 img {
+    width: 351px;
+    height: 327px;
+    border-radius: 5px;
+    box-shadow: 4px 7px 27px -1px rgba(230, 213, 245, 0.425); 
+    
+}

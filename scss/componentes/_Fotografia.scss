@@ -1,0 +1,14 @@
+.foto-contenedor {
+    display: flex;
+    justify-content: center;
+    padding-right: 440px;
+    z-index: -100;
+}
+
+.foto-img {
+    width: 420px; 
+    height: 650px;   
+    border-radius: 5px;
+    box-shadow: 4px 7px 27px -1px rgba(230, 213, 245, 0.425); 
+    
+}
